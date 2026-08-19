@@ -1,15 +1,12 @@
 <template>
-  <div id="app">
-    <Padre />
+  <div>
+    <Tareas />
   </div>
 </template>
 
 <script>
-import Padre from './components/Ejemplo003/Padre.vue'
-
+import Tareas from './components/Ejemplo004/Tareas.vue';
 export default {
-  components: {
-    Padre
-  }
+  components: { Tareas }
 }
 </script>
