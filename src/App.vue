@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import Padre from './components/Ejemplo002/Padre.vue'
+import Padre from './components/Ejemplo003/Padre.vue'
 
 export default {
   components: {
