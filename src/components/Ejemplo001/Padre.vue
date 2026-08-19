@@ -4,7 +4,7 @@
   </div>
 </template>
 <script>
-import Hijo from './Ejemplo001/Hijo.vue'
+import Hijo from './Hijo.vue'
 export default {
   components: {
     Hijo
